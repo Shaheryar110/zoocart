@@ -1,0 +1,15 @@
+.bgis{
+    padding-left: 1rem;
+    background-color:white;
+    height: 70px;
+}
+.btn-style{
+    margin: 0.3rem;
+    box-shadow: none !important;
+    color: black !important;
+    background-color: white !important;
+}
+.btn-style:hover{
+    cursor: pointer;
+    background-color: #d3eaf2 !important;
+}

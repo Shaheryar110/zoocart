@@ -1,0 +1,22 @@
+.banner{
+    background-color: rgb(8, 8, 8);
+    text-align: center;
+   width: 100%;
+   padding-top: 2rem;
+   padding-bottom: 2rem;
+}
+.banner-head{
+    color: white;
+    font-weight: 700;
+}
+.banerspan{
+    font-weight: 1000;
+}
+.banerspancolor{
+    font-weight: 1000;
+    color: #F652A0;
+}
+.coloring{
+    color: #29A0B1;
+    font-weight: 700;
+}

@@ -1,0 +1,27 @@
+.left{
+    display: block;
+    position: absolute !important;
+    background-color: black;
+    color: white;
+    text-align: right;
+    padding: 1rem;
+    width: 50% !important;
+    height: 70% !important;
+    padding-top:11rem;
+
+
+}
+.rights{
+    display: block;
+
+}
+
+.postparent{
+    display: block !important;
+  
+}
+.pinky{
+    font-weight: 500;
+    color: #F652A0;
+}
+

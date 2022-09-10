@@ -1,0 +1,18 @@
+.cardalign{
+    margin: 2rem;
+    align-items: center;
+}
+.cardbtn{
+    align-items: center;
+    display: block;
+    justify-content: center;
+    
+}
+.inline{
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+}
+.sizing{
+    font-size: 1rem !important;
+}

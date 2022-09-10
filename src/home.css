@@ -1,0 +1,96 @@
+.card{
+    width: 90%;
+    color: #000;
+    background: white;
+    padding: 0.5rem;
+    margin-top: 0.4rem;
+    border-radius: 10px;
+    text-align: left;
+    box-shadow: 0px -1px 26px -11px rgba(0,0,0,0.75);
+-webkit-box-shadow: 0px -1px 26px -11px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px -1px 26px -11px rgba(0,0,0,0.75);
+}
+.uper{
+    padding: 1rem;
+    background: #304352;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #d7d2cc, #304352);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #d7d2cc, #304352); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.content{
+    display: flex;
+    padding: 0.7rem;
+    justify-content: center;
+}
+.times{
+    display: block;
+}
+.alignment{
+    display: block;
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: right;
+  
+}
+.right{
+  padding-left: 5rem;
+}
+.card-title{
+ 
+    padding-top: 12px;
+    background-color: white;
+    text-align: left !important;
+}
+.head{
+    background-color: white !important;
+    font-size: 1.2rem !important;
+}
+.parents{
+    background-color: transparent !important;
+}
+.parent{
+   
+    border: none;
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    
+}
+.menu{
+    background-color: transparent !important;
+    color: #000;
+    display: flex;
+    justify-content: flex-end;
+}
+.link{
+    text-decoration: none;
+    color: #000;
+    font-size: 1rem;
+    
+}
+.styls{
+    text-align: center !important;
+    border-right: 1px solid black;
+    display: block;
+    padding-left: 0.6rem;
+    padding-right: 0.6rem;
+}
+.phone{
+    padding-top: 0px !important;
+    margin-top: 0px !important;
+    font-size: 1.5rem !important;
+    display: flex;
+    align-items: center;
+}
+.space{
+   
+    padding-right: 1rem;
+    line-height: 0%;
+}
+.btn{
+    color: black !important;
+    background-color: white !important;
+    display: flex;
+    justify-content: flex-end !important;
+   
+}
